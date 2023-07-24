@@ -1,6 +1,7 @@
 import Head from "next/head"
 import { Component } from 'react'
 import { attributes, react as HomeContent } from '../content/home.md'
+import AcUnitIcon from '@mui/icons-material/AcUnit';
 
 export default class Home extends Component {
   render() {
@@ -10,6 +11,9 @@ export default class Home extends Component {
         <Head>
           <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
         </Head>
+        <AcUnitIcon />
+        <AcUnitIcon />
+        <AcUnitIcon />
         <article>
           <h1>{title}</h1>
           <HomeContent />
@@ -21,6 +25,7 @@ export default class Home extends Component {
               </li>
             ))}
           </ul>
+ 
         </article>
       </>
     )
