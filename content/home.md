@@ -1,14 +1,16 @@
 ---
-title: Awesome kitties
-date: 2019-03-17T19:31:20.591Z
+title: SALURBAL DATA PORTAL
+date: 2023-07-24T19:21:50.393Z
 cats:
-  - description: 'Maru is a Scottish Fold from Japan, and he loves boxes.'
-    name: Maru (まる)
-  - description: Lil Bub is an American celebrity cat known for her unique appearance.
-    name: Lil Bub
-  - description: 'Grumpy cat is an American celebrity cat known for her grumpy appearance.'
-    name: Grumpy cat (Tardar Sauce)
+  - description: Countries
+    name: "11"
+  - description: Cities
+    name: "371"
+  - description: Sub-cities
+    name: "1436"
+  - name: "570"
+    description: Variables
 ---
-Welcome to my awesome page about cats of the internet.
+The **Salud Urbana en América Latina** (SALURBAL) Project is funded by the Wellcome Trust to study the ways urban environments and urban policies impact health. Since 2017, SALURBAL has worked to compile and harmonize data on social, economic, environmental, and health conditions for nearly 400 cities across Latin America.
 
-This page is built with NextJS, and content is managed in Decap CMS
+This data is free and publicly available and can be used to describe and study associations between the built, social, and natural environments and urban health across the region.
