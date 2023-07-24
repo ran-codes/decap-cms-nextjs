@@ -1,7 +1,7 @@
 ---
 title: SALURBAL DATA PORTAL
 date: 2023-07-24T19:21:50.393Z
-cats:
+stats:
   - description: Countries
     name: "11"
   - description: Cities
